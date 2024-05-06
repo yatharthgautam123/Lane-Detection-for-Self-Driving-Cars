@@ -3,7 +3,6 @@
 ### This repository contains Basic Lane Detection and some pre-requisites for Advanced Lane Detection for Self-Driving Cars
 
 - Step1 - Download the test1.mp4, chess.png, and distorted chess board.png files.
-- 
 - Step2 - Run the ipynb file step by step as clearly mentioned in the notebook itself.
 
 ## Techniques used in Basic Lane Detection:
